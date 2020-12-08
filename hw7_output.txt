@@ -1,0 +1,18 @@
+Vertex a is connected to vertex b
+Their weight is 4.0
+Vertex b is connected to vertex c
+Their weight is 8.0
+Vertex c is connected to vertex d
+Their weight is 7.0
+Vertex d is connected to vertex e
+Their weight is 9.0
+Vertex c is connected to vertex f
+Their weight is 4.0
+Vertex f is connected to vertex g
+Their weight is 2.0
+Vertex g is connected to vertex h
+Their weight is 1.0
+Vertex c is connected to vertex i
+Their weight is 2.0
+
+The total cost of the MST is: 37.0
